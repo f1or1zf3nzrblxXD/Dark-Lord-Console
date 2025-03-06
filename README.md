@@ -5,7 +5,9 @@ New Discord Multitool DARK LORD 6.0!
 
 ## Description
 
-DARK LORD 6.0 is a batch script tool designed to help users manage webhooks, check links, and perform various utility tasks. This script includes multiple features that enhance the control and security of online activities. The icon is changed by Resource Hacker.
+DARK LORD 6.0 is a batch script tool designed to help users manage webhooks, check links, and perform various utility tasks. This script includes multiple features that enhance the control and security of online activities. FALSE POSITIVE, ![image](https://github.com/user-attachments/assets/0b33d25b-0b0a-4c26-8d80-5225798689e6)
+IT JUST HAS ALOT OF FEATURES AND YOU CAN EDIT THEM IF YOU CRACK THE EXE, Remember to not skid it up(script kid) or you will die,
+Just kidding.
 
 ## Features
 🤑🤑🤑
